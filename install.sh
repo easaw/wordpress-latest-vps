@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo Please run as sudo
+echo Please run as sudo;
 
 apt update
 
@@ -69,6 +69,8 @@ find /var/www/html/ -type f -exec chmod 640 {} \;
 
 #add salts coming later
 #curl -s https://api.wordpress.org/secret-key/1.1/salt/
+
+echo PLEASE CHANGE SALTS in wp-config!
 
 
 
