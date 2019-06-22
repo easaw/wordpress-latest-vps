@@ -1,7 +1,9 @@
 # WordPress Latest VPS Installer
 
-Install WordPress Latest on a VPS Ubuntu Server with PHP 7.3, Apache2, MySQL and SSL
-As you mihgt imagine spinning up a VPS is EASY. But managing them can be more complex. 
+Install WordPress Latest on a VPS Ubuntu Server with PHP 7.3, Apache2, MySQL and SSL.
+
+As you might know, spinning up a VPS is EASY. But managing them can be more complex. 
+
 This file is designed to:
 
 - Update Ubuntu
