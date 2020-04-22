@@ -22,7 +22,7 @@ apt install php7.4 php7.4-cli php7.4-common
 
 #add most ommon PHP modules
 
-apt install php-pear php7.4-curl php7.4-dev php7.4-gd php7.4-mbstring php7.4-zip php7.4-mysql php7.4-xml php7.4-fpm libapache2-mod-php7.4 php7.4-imagick php7.4-recode php7.4-tidy php7.4-xmlrpc php7.4-intl
+apt install php-pear php7.4-curl php7.4-dev php7.4-gd php7.4-mbstring php7.4-zip php7.4-mysql php7.4-xml php7.4-fpm libapache2-mod-php7.4 php-imagick php7.4-tidy php7.4-xmlrpc php7.4-intl
 
 a2enmod php7.4
 
