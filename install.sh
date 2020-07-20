@@ -12,7 +12,7 @@ systemctl start apache2
 
 systemctl enable apache2
 
-apt install software-properties-common python-software-properties
+apt install software-properties-common
 
 LC_ALL=C.UTF-8 add-apt-repository ppa:ondrej/php
 
